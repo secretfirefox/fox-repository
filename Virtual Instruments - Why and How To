@@ -1,0 +1,20 @@
+In an effort to contribute to the common good, having found something I consider of great value, but that sometimes can seem quite difficult to grasp, I have decided to put together this short document, giving some general information about Virtual Studio Techonology and Virtual Instruments. This comes in the form of a Q&A to make it simple and straightforward. Please let me know if this was useful for you. - Secret Firefox 
+
+Q: What are VSTs and VSTIs?
+A: They are the attempt to virtualize studios and musical instruments in a computer, which allows for sound modification and customization often not easily done in real life. Sound quality in general is much better as well, most notably so in the lack of undesired background noise.
+
+Q: My keyboard already has piano sounds. Why use a VST?
+A: While keyboards do come with piano sounds, often times the quality of the samples suffer because of the need for managing processing and storage needs. This is not a problem for computers, as memory and processor power are much accesible. Because of this, pianos that cost hundreds thousands of dollars can be accurately recorded - and simulated - in a computer and made available for a fraction of the cost, and be controlled by your existing keyboard. 
+
+Q: What do I need to get started?
+A: If you already have a keyboard and a computer, and some headphones, you are probably only missing a USB Type-B cable. Those are used to transfer information of what you are playing to the computer, which then gets used to trigger the virtual instrument. Look for 'USB-B MIDI cable'. Once you have it connected to your computer, install the appropriate drivers from the manufacturer of your keyboard, usually it is available on their website and you can look it up by the model of your keyboard. Windows 10 and above may install drivers automatically, so you may not need any additional setup, but this is not guaranteed. When you are done with setting up the connection with your computer, make sure the keyboard itself is using that connection as a USB-to-MIDI connection. This may vary between keyboards, but it should be on its settings menu. After this, you only need to download a virtual instrument!
+
+Q: What are some free instruments I can try? 
+A: Virtual Pianos can be expensive, and you may not want to spend anything at first. Luckily, there are a couple options. TruePianos offers a trial version of their Atlantis model, which mixes real recorded samples with other simulation technologies, and has a pretty even sound. There is also another called Pianissimo; it offers less customization, but is also very straightforward to setup. 
+
+Q: Why does it sound too hard or too soft, unlike what I am playing? 
+A: The softness or hardness of the sound is determined by something called velocity. This is a value your keyboard uses to determine how hard you have pressed the key. If it sounds too hard or too soft, you can try to decrease or increase the velocity curve in the virtual piano. This should give it a more natural feel. 
+
+
+
+
