@@ -1,0 +1,14 @@
+#deb cdrom:[Devuan GNU/Linux 5.0.1 daedalus amd64 - desktop 20230914]/ daedalus contrib main non-free non-free-firmware
+
+deb http://br.deb.devuan.org/merged daedalus main non-free-firmware
+deb-src http://br.deb.devuan.org/merged daedalus main non-free-firmware
+
+# Line commented out by installer because it failed to verify:
+deb http://br.deb.devuan.org/merged daedalus-security main non-free-firmware
+# Line commented out by installer because it failed to verify:
+deb-src http://br.deb.devuan.org/merged daedalus-security main non-free-firmware
+
+# daedalus-updates, to get updates before a point release is made;
+# see https://www.debian.org/doc/manuals/debian-reference/ch02.en.html#_updates_and_backports
+deb http://br.deb.devuan.org/merged daedalus-updates main non-free-firmware
+deb-src http://br.deb.devuan.org/merged daedalus-updates main non-free-firmware
